@@ -1,0 +1,14 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\*\generator Riched20 10.0.17763}\viewkind4\uc1 
+\pard\sa200\sl276\slmult1\b\f0\fs52\lang9 college information management      system\b0\fs22\par
+This system can be used by the colleges to manage their daily activities which includes management of Emplyoees,students ,library records,results,faculty ,courses,events related to the college\par
+1)There will be 4 people/users : Studens,admin,faculty,library\par
+2)Admin can login using valid credentials and perform various tasks such as adding a teacher,a student or librarian and also can view them\par
+3)The college admin can add students, courses , books , faculties and event to the database\par
+4)Student can check his/her details, results , courses , books and faculty assigned to course\par
+5)Faculty can save the attendance of the students,check the no of courses assigned to him and check the events related to college.\par
+6)Library users can check the books present in the college library , eresources present ,publications related to the college\par
+7) All four people can also see events related to the college\par
+\par
+\par
+}
